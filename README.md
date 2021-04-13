@@ -1,5 +1,5 @@
-## Dataset and code for the paper "Human disturbances affect the topology of food webs" 
-# by Mestre, Rozenfeld & Araújo.
+# Dataset and code for the paper "Human disturbances affect the topology of food webs" 
+## by Mestre, Rozenfeld & Araújo.
 
 In this repository we made available the Matlab code and dataset:
 
