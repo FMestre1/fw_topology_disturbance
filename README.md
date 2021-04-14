@@ -8,7 +8,7 @@ In this repository we made available the Matlab code and dataset:
 ***dbaseIndexes.mat*** -  
 ***FWinfo_Real.mat*** -  
 
-RData versions of the dataset:
-***FW_database_25AJAN2021.RData*** - database with the food web information.
-***matrix_list_25AJAN2021.RData*** - list of food web interaction matrices.
+RData versions of the dataset:  
+***FW_database_25AJAN2021.RData*** - database with the food web information.  
+***matrix_list_25AJAN2021.RData*** - list of food web interaction matrices.  
 
