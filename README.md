@@ -1,7 +1,9 @@
 # Dataset and code for the paper "Human disturbances affect the topology of food webs" 
 ## by Mestre, Rozenfeld & Araújo.
 
-### In this repository we made available the Matlab code and dataset:
+### In this repository we made available the Matlab code and dataset.  
+  
+Food web matrices were retrieved from online repositories (Ecobase and Globalweb) using the code in [this](https://github.com/FMestre1/fw_package) repository.
 
 ***FW.m*** - code to plot the data.  
 ***catFW.m*** - code to categorize the food webs.  
