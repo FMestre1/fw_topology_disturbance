@@ -3,8 +3,10 @@
 
 ### In this repository we made available the Matlab code and dataset.  
   
-Food web matrices were retrieved from online repositories (Ecobase and Globalweb) using the code in [this](https://github.com/FMestre1/fw_package) repository.
+Food web matrices were retrieved from online repositories ([Ecobase](http://ecobase.ecopath.org/) and [Globalweb](https://www.globalwebdb.com/)) using the code in [this](https://github.com/FMestre1/fw_package) repository.  
 
+Data set and Matlab code:  
+  
 ***FW.m*** - code to plot the data.  
 ***catFW.m*** - code to categorize the food webs.  
 ***dbaseIndexes.mat*** -  
