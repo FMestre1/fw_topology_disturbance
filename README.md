@@ -10,7 +10,7 @@ Data set and Matlab code:
   
 ***FW.m*** - code to plot the data.  
 ***catFW.m*** - code to categorize the food webs.  
-***dbaseIndexes.mat*** - database with the food web information.
+***dbaseIndexes.mat*** - database with the food web information.  
 ***FWinfo_Real.mat*** - list of food web interaction matrices.
 
 ### RData versions of the dataset:    
